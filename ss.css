@@ -1,0 +1,41 @@
+div{
+    background-color: rgb(242, 220, 94);
+}
+#one{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    background-color: green;
+    text-align: center;
+    font-size: 25px; 
+    color: white;
+    border-width: 5px;
+    border-style: dashed;
+    border-color: black;
+}
+#two{
+    height: 150px ;
+    width: 150px ;
+    border-radius: 50%;
+    background-color: blue;
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    border-width: 5px;
+    border-style: dashed;
+    border-color: black;
+}
+
+#three{
+    height: 150px  ;
+    width: 150px ;
+    border-radius: 50%;
+    background-color: red;
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    border-width: 5px;
+    border-style: dashed;
+    border-color: black;
+}
+
